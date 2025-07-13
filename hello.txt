@@ -1,3 +1,6 @@
 Hello from the main branch!
-This is a testile for Qodo Merge.
+This is a test file for Qodo Merge.
 Adding a friendly greeting from the feature branch!
+#This is a simple greeting function
+def say_hello(name):
+  print(f"Hello,{name}!Welcome to the Qodo Merge test.")
